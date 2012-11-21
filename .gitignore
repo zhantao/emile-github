@@ -1,5 +1,2 @@
-# History files
-.Rhistory
-
-# Example code in package build process
-*-Ex.R
+b.txt .gitignore c.txt
+diff.txt diff1.txt zhan.txt d.txt
