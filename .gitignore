@@ -1,2 +1,7 @@
-b.txt .gitignore c.txt
-diff.txt diff1.txt zhan.txt d.txt
+b.txt
+.gitignore
+c.txt
+diff.txt
+diff1.txt
+zhan.txt
+d.txt
